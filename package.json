@@ -1,0 +1,15 @@
+{
+  "name": "@awaisraad/pubsub-benchmark",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "ioredis": "^4.6.2",
+    "ts-nats": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.5.11",
+    "@types/ioredis": "^4.0.9"
+  }
+}
